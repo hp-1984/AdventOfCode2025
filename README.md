@@ -22,5 +22,6 @@
 04.03 Ender Mriscoc install
 04.04 Ender leveling
 04.05 ???
-04.06
 
+04.07
+04.08 
